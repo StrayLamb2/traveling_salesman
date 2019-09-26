@@ -1,0 +1,261 @@
+<Source>Node0e</Source>
+<Destination>Node9e</Destination>
+<Roads>
+Road0e; Node0e; Node1e; 1
+Road1e; Node0e; Node2e; 3
+Road2e; Node1e; Node4e; 7
+Road3e; Node1e; Node5e; 5
+Road4e; Node2e; Node5e; 8
+Road5e; Node2e; Node6e; 7
+Road6e; Node2e; Node3e; 3
+Road7e; Node3e; Node7e; 4
+Road8e; Node4e; Node8e; 4
+Road9e; Node5e; Node8e; 6
+Road10e; Node6e; Node9e; 5
+Road11e; Node7e; Node9e; 2
+Road12e; Node7e; Node19e; 6
+Road13e; Node8e; Node9e; 4 
+Road14e; Node9e; Node10e; 4
+</Roads>
+<Predictions>
+<Day>
+Road0e; normal
+Road1e; normal
+Road2e; normal
+Road3e; low
+Road4e; normal
+Road5e; low
+Road6e; normal
+Road7e; low
+Road8e; low
+Road9e; normal
+Road10e; normal
+Road11e; heavy
+Road12e; normal
+Road13e; normal
+Road14e; low
+</Day>
+<Day>
+Road0e; low
+Road1e; low
+Road2e; heavy
+Road3e; low
+Road4e; heavy
+Road5e; heavy
+Road6e; normal
+Road7e; low
+Road8e; normal
+Road9e; normal
+Road10e; normal
+Road11e; low
+Road12e; normal
+Road13e; low
+Road14e; heavy
+</Day>
+<Day>
+Road0e; low
+Road1e; normal
+Road2e; heavy
+Road3e; heavy
+Road4e; normal
+Road5e; low
+Road6e; normal
+Road7e; low
+Road8e; low
+Road9e; heavy
+Road10e; normal
+Road11e; heavy
+Road12e; low
+Road13e; low
+Road14e; normal
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; normal
+Road3e; heavy
+Road4e; low
+Road5e; normal
+Road6e; normal
+Road7e; normal
+Road8e; low
+Road9e; normal
+Road10e; normal
+Road11e; normal
+Road12e; low
+Road13e; normal
+Road14e; low
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; normal
+Road3e; low
+Road4e; low
+Road5e; heavy
+Road6e; normal
+Road7e; low
+Road8e; low
+Road9e; normal
+Road10e; normal
+Road11e; normal
+Road12e; normal
+Road13e; low
+Road14e; normal
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; normal
+Road3e; normal
+Road4e; heavy
+Road5e; heavy
+Road6e; heavy
+Road7e; low
+Road8e; normal
+Road9e; normal
+Road10e; normal
+Road11e; normal
+Road12e; low
+Road13e; heavy
+Road14e; normal
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; low
+Road3e; normal
+Road4e; normal
+Road5e; heavy
+Road6e; normal
+Road7e; low
+Road8e; normal
+Road9e; normal
+Road10e; normal
+Road11e; low
+Road12e; low
+Road13e; heavy
+Road14e; normal
+</Day>
+</Predictions>
+<ActualTrafficPerDay>
+<Day>
+Road0e; normal
+Road1e; normal
+Road2e; normal
+Road3e; low
+Road4e; normal
+Road5e; low
+Road6e; normal
+Road7e; low
+Road8e; low
+Road9e; normal
+Road10e; normal
+Road11e; heavy
+Road12e; normal
+Road13e; normal
+Road14e; low
+</Day>
+<Day>
+Road0e; low
+Road1e; low
+Road2e; heavy
+Road3e; low
+Road4e; heavy
+Road5e; heavy
+Road6e; normal
+Road7e; low
+Road8e; normal
+Road9e; normal
+Road10e; normal
+Road11e; low
+Road12e; normal
+Road13e; low
+Road14e; heavy
+</Day>
+<Day>
+Road0e; low
+Road1e; normal
+Road2e; heavy
+Road3e; heavy
+Road4e; normal
+Road5e; low
+Road6e; normal
+Road7e; low
+Road8e; low
+Road9e; heavy
+Road10e; normal
+Road11e; heavy
+Road12e; low
+Road13e; low
+Road14e; normal
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; normal
+Road3e; heavy
+Road4e; low
+Road5e; normal
+Road6e; normal
+Road7e; normal
+Road8e; low
+Road9e; normal
+Road10e; normal
+Road11e; normal
+Road12e; low
+Road13e; normal
+Road14e; low
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; normal
+Road3e; low
+Road4e; low
+Road5e; heavy
+Road6e; normal
+Road7e; low
+Road8e; low
+Road9e; normal
+Road10e; normal
+Road11e; normal
+Road12e; normal
+Road13e; low
+Road14e; normal
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; normal
+Road3e; normal
+Road4e; heavy
+Road5e; heavy
+Road6e; heavy
+Road7e; low
+Road8e; normal
+Road9e; normal
+Road10e; normal
+Road11e; normal
+Road12e; low
+Road13e; heavy
+Road14e; normal
+</Day>
+<Day>
+Road0e; heavy
+Road1e; low
+Road2e; low
+Road3e; normal
+Road4e; normal
+Road5e; heavy
+Road6e; normal
+Road7e; low
+Road8e; normal
+Road9e; normal
+Road10e; normal
+Road11e; low
+Road12e; low
+Road13e; heavy
+Road14e; normal
+</Day>
+</ActualTrafficPerDay>

@@ -1,0 +1,140 @@
+
+---Parsing took 0.09275054931640625 seconds---
+
+Graph is:
+ {'11Node10e': [['Road72e', '17', '11Node0e'], ['Road93e', '34', '11Node8e'], ['Road152e', '34', '10Node9e'], ['Road92e', '45', '11Node6e'], ['Road83e', '55', '11Node3e'], ['Road86e', '63', '11Node4e'], ['Road89e', '63', '11Node5e']], '5Node3e': [['Road161e', '30', '9Node0e'], ['Road58e', '42', '5Node2e'], ['Road63e', '44', '5Node4e']], '5Node4e': [['Road62e', '14', '5Node2e'], ['Road162e', '23', '9Node4e'], ['Road57e', '29', '5Node1e'], ['Road50e', '37', '5Node0e'], ['Road55e', '44', '5Node1e'], ['Road63e', '44', '5Node3e'], ['Road60e', '50', '5Node2e'], ['Road51e', '54', '5Node0e'], ['Road160e', '58', '4Node3e'], ['Road54e', '59', '5Node1e'], ['Road48e', '6', '5Node0e'], ['Road56e', '60', '5Node1e'], ['Road49e', '70', '5Node0e'], ['Road59e', '70', '5Node2e'], ['Road157e', '71', '11Node4e'], ['Road61e', '74', '5Node2e']], '4Node3e': [['Road111e', '18', '4Node2e'], ['Road112e', '21', '4Node2e'], ['Road113e', '26', '4Node2e'], ['Road163e', '30', '11Node3e'], ['Road108e', '38', '4Node1e'], ['Road110e', '50', '4Node1e'], ['Road160e', '58', '5Node4e'], ['Road109e', '66', '4Node1e'], ['Road104e', '73', '4Node0e']], '10Node1e': [['Road10e', '34', '10Node6e'], ['Road8e', '50', '10Node4e'], ['Road12e', '56', '10Node9e'], ['Road11e', '58', '10Node9e'], ['Road9e', '76', '10Node5e']], '11Node3e': [['Road82e', '30', '11Node6e'], ['Road163e', '30', '4Node3e'], ['Road81e', '46', '11Node4e'], ['Road74e', '54', '11Node1e'], ['Road83e', '55', '11Node10e'], ['Road66e', '75', '11Node0e']], '11Node6e': [['Road87e', '19', '11Node5e'], ['Road76e', '26', '11Node1e'], ['Road82e', '30', '11Node3e'], ['Road91e', '35', '11Node9e'], ['Road92e', '45', '11Node10e'], ['Road90e', '48', '11Node7e']], '10Node9e': [['Road24e', '11', '10Node3e'], ['Road43e', '12', '10Node8e'], ['Road6e', '15', '10Node0e'], ['Road32e', '16', '10Node4e'], ['Road42e', '20', '10Node7e'], ['Road19e', '25', '10Node2e'], ['Road18e', '31', '10Node2e'], ['Road152e', '34', '11Node10e'], ['Road31e', '36', '10Node4e'], ['Road25e', '45', '10Node3e'], ['Road7e', '55', '10Node0e'], ['Road12e', '56', '10Node1e'], ['Road11e', '58', '10Node1e'], ['Road40e', '75', '10Node6e']], '10Node5e': [['Road33e', '22', '10Node6e'], ['Road34e', '27', '10Node8e'], ['Road15e', '40', '10Node2e'], ['Road21e', '44', '10Node3e'], ['Road35e', '45', '10Node8e'], ['Road2e', '47', '10Node0e'], ['Road9e', '76', '10Node1e'], ['Road1e', '9', '10Node0e']], '11Node5e': [['Road87e', '19', '11Node6e'], ['Road68e', '34', '11Node0e'], ['Road88e', '61', '11Node9e'], ['Road89e', '63', '11Node10e'], ['Road84e', '9', '11Node4e']], '9Node3e': [['Road135e', '15', '9Node7e'], ['Road165e', '15', '4Node0e'], ['Road119e', '40', '9Node1e'], ['Road134e', '45', '9Node6e'], ['Road136e', '45', '9Node8e'], ['Road133e', '52', '9Node6e'], ['Road120e', '62', '9Node1e'], ['Road129e', '69', '9Node2e']], '10Node0e': [['Road6e', '15', '10Node9e'], ['Road3e', '19', '10Node7e'], ['Road149e', '28', '5Node0e'], ['Road2e', '47', '10Node5e'], ['Road7e', '55', '10Node9e'], ['Road4e', '73', '10Node7e'], ['Road5e', '77', '10Node8e'], ['Road1e', '9', '10Node5e']], '10Node6e': [['Road26e', '18', '10Node4e'], ['Road36e', '18', '10Node7e'], ['Road27e', '22', '10Node4e'], ['Road33e', '22', '10Node5e'], ['Road38e', '27', '10Node8e'], ['Road10e', '34', '10Node1e'], ['Road39e', '51', '10Node8e'], ['Road37e', '56', '10Node7e'], ['Road40e', '75', '10Node9e']], '5Node0e': [['Road45e', '17', '5Node1e'], ['Road44e', '25', '5Node1e'], ['Road149e', '28', '10Node0e'], ['Road158e', '35', '11Node4e'], ['Road50e', '37', '5Node4e'], ['Road46e', '44', '5Node1e'], ['Road47e', '48', '5Node1e'], ['Road51e', '54', '5Node4e'], ['Road159e', '54', '4Node2e'], ['Road48e', '6', '5Node4e'], ['Road49e', '70', '5Node4e']], '10Node7e': [['Road28e', '11', '10Node4e'], ['Road36e', '18', '10Node6e'], ['Road3e', '19', '10Node0e'], ['Road42e', '20', '10Node9e'], ['Road37e', '56', '10Node6e'], ['Road17e', '59', '10Node2e'], ['Road41e', '64', '10Node8e'], ['Road16e', '65', '10Node2e'], ['Road154e', '70', '4Node0e'], ['Road4e', '73', '10Node0e']], '11Node0e': [['Road71e', '13', '11Node9e'], ['Road69e', '17', '11Node7e'], ['Road72e', '17', '11Node10e'], ['Road164e', '26', '9Node2e'], ['Road68e', '34', '11Node5e'], ['Road67e', '37', '11Node4e'], ['Road70e', '44', '11Node8e'], ['Road64e', '57', '11Node1e'], ['Road66e', '75', '11Node3e'], ['Road65e', '8', '11Node2e']], '11Node8e': [['Road93e', '34', '11Node10e'], ['Road70e', '44', '11Node0e']], '11Node4e': [['Road85e', '25', '11Node7e'], ['Road158e', '35', '5Node0e'], ['Road67e', '37', '11Node0e'], ['Road81e', '46', '11Node3e'], ['Road75e', '62', '11Node1e'], ['Road86e', '63', '11Node10e'], ['Road79e', '67', '11Node2e'], ['Road157e', '71', '5Node4e'], ['Road84e', '9', '11Node5e']], '9Node4e': [['Road138e', '13', '9Node6e'], ['Road166e', '19', '4Node0e'], ['Road162e', '23', '5Node4e'], ['Road142e', '30', '9Node8e'], ['Road141e', '31', '9Node7e'], ['Road156e', '38', '10Node3e'], ['Road139e', '42', '9Node6e'], ['Road130e', '55', '9Node2e'], ['Road122e', '58', '9Node1e'], ['Road137e', '66', '9Node5e'], ['Road140e', '69', '9Node7e'], ['Road121e', '9', '9Node1e']], '9Node8e': [['Road146e', '12', '9Node5e'], ['Road142e', '30', '9Node4e'], ['Road128e', '32', '9Node1e'], ['Road148e', '32', '9Node7e'], ['Road131e', '43', '9Node2e'], ['Road136e', '45', '9Node3e'], ['Road127e', '53', '9Node1e'], ['Road132e', '60', '9Node2e'], ['Road118e', '63', '9Node0e'], ['Road117e', '68', '9Node0e'], ['Road147e', '69', '9Node7e']], '4Node1e': [['Road108e', '38', '4Node3e'], ['Road106e', '43', '4Node2e'], ['Road105e', '44', '4Node2e'], ['Road110e', '50', '4Node3e'], ['Road98e', '57', '4Node0e'], ['Road96e', '66', '4Node0e'], ['Road109e', '66', '4Node3e'], ['Road94e', '7', '4Node0e'], ['Road107e', '74', '4Node2e'], ['Road97e', '77', '4Node0e'], ['Road95e', '9', '4Node0e']], '10Node2e': [['Road14e', '18', '10Node4e'], ['Road13e', '25', '10Node3e'], ['Road19e', '25', '10Node9e'], ['Road18e', '31', '10Node9e'], ['Road15e', '40', '10Node5e'], ['Road17e', '59', '10Node7e'], ['Road16e', '65', '10Node7e']], '10Node4e': [['Road20e', '11', '10Node3e'], ['Road28e', '11', '10Node7e'], ['Road32e', '16', '10Node9e'], ['Road14e', '18', '10Node2e'], ['Road26e', '18', '10Node6e'], ['Road27e', '22', '10Node6e'], ['Road29e', '30', '10Node8e'], ['Road30e', '33', '10Node8e'], ['Road31e', '36', '10Node9e'], ['Road8e', '50', '10Node1e'], ['Road150e', '70', '5Node2e']], '9Node0e': [['Road116e', '23', '9Node5e'], ['Road161e', '30', '5Node3e'], ['Road115e', '33', '9Node5e'], ['Road118e', '63', '9Node8e'], ['Road114e', '66', '9Node1e'], ['Road117e', '68', '9Node8e']], '5Node2e': [['Road62e', '14', '5Node4e'], ['Road58e', '42', '5Node3e'], ['Road60e', '50', '5Node4e'], ['Road53e', '63', '5Node1e'], ['Road59e', '70', '5Node4e'], ['Road150e', '70', '10Node4e'], ['Road52e', '73', '5Node1e'], ['Road61e', '74', '5Node4e']], '5Node1e': [['Road45e', '17', '5Node0e'], ['Road44e', '25', '5Node0e'], ['Road57e', '29', '5Node4e'], ['Road46e', '44', '5Node0e'], ['Road55e', '44', '5Node4e'], ['Road47e', '48', '5Node0e'], ['Road54e', '59', '5Node4e'], ['Road56e', '60', '5Node4e'], ['Road53e', '63', '5Node2e'], ['Road52e', '73', '5Node2e']], '11Node1e': [['Road151e', '10', '10Node8e'], ['Road76e', '26', '11Node6e'], ['Road74e', '54', '11Node3e'], ['Road64e', '57', '11Node0e'], ['Road78e', '59', '11Node9e'], ['Road75e', '62', '11Node4e'], ['Road73e', '71', '11Node2e'], ['Road77e', '77', '11Node7e']], '4Node2e': [['Road99e', '18', '4Node0e'], ['Road111e', '18', '4Node3e'], ['Road112e', '21', '4Node3e'], ['Road113e', '26', '4Node3e'], ['Road102e', '37', '4Node0e'], ['Road153e', '41', '10Node3e'], ['Road106e', '43', '4Node1e'], ['Road105e', '44', '4Node1e'], ['Road101e', '52', '4Node0e'], ['Road159e', '54', '5Node0e'], ['Road103e', '56', '4Node0e'], ['Road100e', '64', '4Node0e'], ['Road107e', '74', '4Node1e']], '10Node8e': [['Road23e', '10', '10Node3e'], ['Road151e', '10', '11Node1e'], ['Road43e', '12', '10Node9e'], ['Road34e', '27', '10Node5e'], ['Road38e', '27', '10Node6e'], ['Road29e', '30', '10Node4e'], ['Road30e', '33', '10Node4e'], ['Road35e', '45', '10Node5e'], ['Road39e', '51', '10Node6e'], ['Road41e', '64', '10Node7e'], ['Road22e', '7', '10Node3e'], ['Road5e', '77', '10Node0e']], '4Node0e': [['Road165e', '15', '9Node3e'], ['Road99e', '18', '4Node2e'], ['Road166e', '19', '9Node4e'], ['Road102e', '37', '4Node2e'], ['Road101e', '52', '4Node2e'], ['Road103e', '56', '4Node2e'], ['Road98e', '57', '4Node1e'], ['Road100e', '64', '4Node2e'], ['Road96e', '66', '4Node1e'], ['Road94e', '7', '4Node1e'], ['Road154e', '70', '10Node7e'], ['Road104e', '73', '4Node3e'], ['Road97e', '77', '4Node1e'], ['Road95e', '9', '4Node1e']], '10Node3e': [['Road23e', '10', '10Node8e'], ['Road20e', '11', '10Node4e'], ['Road24e', '11', '10Node9e'], ['Road13e', '25', '10Node2e'], ['Road156e', '38', '9Node4e'], ['Road153e', '41', '4Node2e'], ['Road21e', '44', '10Node5e'], ['Road25e', '45', '10Node9e'], ['Road155e', '59', '9Node6e'], ['Road22e', '7', '10Node8e']], '9Node2e': [['Road164e', '26', '11Node0e'], ['Road131e', '43', '9Node8e'], ['Road130e', '55', '9Node4e'], ['Road132e', '60', '9Node8e'], ['Road129e', '69', '9Node3e']], '9Node5e': [['Road146e', '12', '9Node8e'], ['Road116e', '23', '9Node0e'], ['Road143e', '26', '9Node6e'], ['Road115e', '33', '9Node0e'], ['Road144e', '37', '9Node6e'], ['Road123e', '50', '9Node1e'], ['Road137e', '66', '9Node4e'], ['Road145e', '66', '9Node7e']], '11Node9e': [['Road71e', '13', '11Node0e'], ['Road91e', '35', '11Node6e'], ['Road78e', '59', '11Node1e'], ['Road88e', '61', '11Node5e']], '11Node2e': [['Road80e', '11', '11Node7e'], ['Road79e', '67', '11Node4e'], ['Road73e', '71', '11Node1e'], ['Road65e', '8', '11Node0e']], '9Node6e': [['Road138e', '13', '9Node4e'], ['Road143e', '26', '9Node5e'], ['Road144e', '37', '9Node5e'], ['Road139e', '42', '9Node4e'], ['Road134e', '45', '9Node3e'], ['Road133e', '52', '9Node3e'], ['Road124e', '55', '9Node1e'], ['Road155e', '59', '10Node3e']], '9Node1e': [['Road125e', '14', '9Node7e'], ['Road128e', '32', '9Node8e'], ['Road126e', '34', '9Node7e'], ['Road119e', '40', '9Node3e'], ['Road123e', '50', '9Node5e'], ['Road127e', '53', '9Node8e'], ['Road124e', '55', '9Node6e'], ['Road122e', '58', '9Node4e'], ['Road120e', '62', '9Node3e'], ['Road114e', '66', '9Node0e'], ['Road121e', '9', '9Node4e']], '11Node7e': [['Road80e', '11', '11Node2e'], ['Road69e', '17', '11Node0e'], ['Road85e', '25', '11Node4e'], ['Road90e', '48', '11Node6e'], ['Road77e', '77', '11Node1e']], '9Node7e': [['Road125e', '14', '9Node1e'], ['Road135e', '15', '9Node3e'], ['Road141e', '31', '9Node4e'], ['Road148e', '32', '9Node8e'], ['Road126e', '34', '9Node1e'], ['Road145e', '66', '9Node5e'], ['Road140e', '69', '9Node4e'], ['Road147e', '69', '9Node8e']]}
+
+---Making the Graph took 0.09251022338867188 seconds---
+
+Starting DFS...
+
+Node 10Node9e starting to expand
+1 expands in total
+Checking 10Node3e for expansion
+10Node3e not visited, Road: Road24e value: 11
+Moving to 10Node3e
+
+Node 10Node3e starting to expand
+2 expands in total
+Checking 10Node8e for expansion
+10Node8e not visited, Road: Road23e value: 10
+Moving to 10Node8e
+
+Node 10Node8e starting to expand
+3 expands in total
+Checking 10Node3e for expansion
+10Node3e has been visited
+Checking 11Node1e for expansion
+11Node1e not visited, Road: Road151e value: 10
+Moving to 11Node1e
+
+Node 11Node1e starting to expand
+4 expands in total
+Checking 10Node8e for expansion
+10Node8e has been visited
+Checking 11Node6e for expansion
+11Node6e not visited, Road: Road76e value: 26
+Moving to 11Node6e
+
+Node 11Node6e starting to expand
+5 expands in total
+Checking 11Node5e for expansion
+11Node5e not visited, Road: Road87e value: 19
+Moving to 11Node5e
+
+Node 11Node5e starting to expand
+6 expands in total
+Checking 11Node6e for expansion
+11Node6e has been visited
+Checking 11Node0e for expansion
+11Node0e not visited, Road: Road68e value: 34
+Moving to 11Node0e
+
+Node 11Node0e starting to expand
+7 expands in total
+Checking 11Node9e for expansion
+11Node9e not visited, Road: Road71e value: 13
+Moving to 11Node9e
+
+Node 11Node9e starting to expand
+8 expands in total
+Checking 11Node0e for expansion
+11Node0e has been visited
+Checking 11Node6e for expansion
+11Node6e has been visited
+Checking 11Node1e for expansion
+11Node1e has been visited
+Checking 11Node5e for expansion
+11Node5e has been visited
+Checking 11Node7e for expansion
+11Node7e not visited, Road: Road69e value: 17
+Moving to 11Node7e
+
+Node 11Node7e starting to expand
+9 expands in total
+Checking 11Node2e for expansion
+11Node2e not visited, Road: Road80e value: 11
+Moving to 11Node2e
+
+Node 11Node2e starting to expand
+10 expands in total
+Checking 11Node7e for expansion
+11Node7e has been visited
+Checking 11Node4e for expansion
+11Node4e not visited, Road: Road79e value: 67
+Moving to 11Node4e
+
+Node 11Node4e starting to expand
+11 expands in total
+Checking 11Node7e for expansion
+11Node7e has been visited
+Checking 5Node0e for expansion
+5Node0e not visited, Road: Road158e value: 35
+Moving to 5Node0e
+
+Node 5Node0e starting to expand
+12 expands in total
+Checking 5Node1e for expansion
+5Node1e not visited, Road: Road45e value: 17
+Moving to 5Node1e
+
+Node 5Node1e starting to expand
+13 expands in total
+Checking 5Node0e for expansion
+5Node0e has been visited
+Checking 5Node0e for expansion
+5Node0e has been visited
+Checking 5Node4e for expansion
+5Node4e not visited, Road: Road57e value: 29
+Moving to 5Node4e
+
+Node 5Node4e starting to expand
+14 expands in total
+Checking 5Node2e for expansion
+5Node2e not visited, Road: Road62e value: 14
+Moving to 5Node2e
+
+Node 5Node2e starting to expand
+15 expands in total
+Checking 5Node4e for expansion
+5Node4e has been visited
+Checking 5Node3e for expansion
+5Node3e not visited, Road: Road58e value: 42
+Moving to 5Node3e
+
+Node 5Node3e starting to expand
+16 expands in total
+Checking 9Node0e for expansion
+9Node0e not visited, Road: Road161e value: 30
+Moving to 9Node0e
+
+Node 9Node0e starting to expand
+17 expands in total
+Checking 9Node5e for expansion
+Found Dest!
+
+
+---DFS took 0.09290933609008789 seconds---
+
+Path: [['Road24e', '11'], ['Road23e', '10'], ['Road151e', '10'], ['Road76e', '26'], ['Road87e', '19'], ['Road68e', '34'], ['Road69e', '17'], ['Road80e', '11'], ['Road79e', '67'], ['Road158e', '35'], ['Road45e', '17'], ['Road57e', '29'], ['Road62e', '14'], ['Road58e', '42'], ['Road161e', '30']]
+Used 15 roads, total value is: 372
